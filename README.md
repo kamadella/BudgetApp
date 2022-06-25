@@ -1,4 +1,12 @@
 # BudgetApp
+
+**Budzet domowy**
+
+Aplikacja pozwalajaca na zapamietywanie wydatków i przychodów oraz ich prezentacje w formie czytelnych zestawien i wykresow. Podstawowe funkcje aplikacji: wprowadzanie wydatków/przychodów i przypisywanie ich do definiowanych przez uzytkownika kategorii, filtrowanie wpisów i tworzenie z nich uzytecznych zestawien w formie tabeli i/lub wykresów
+
+Całość zrealizowana w technologii: Django
+
+
 ![Zrzut ekranu (798)](https://user-images.githubusercontent.com/76974781/175765273-d242425c-1537-4e28-b9cf-e779e0893d7e.jpg)
 ![Zrzut ekranu (799)](https://user-images.githubusercontent.com/76974781/175765275-e72bc60b-6aa4-4f15-8c46-468993bbdac3.jpg)
 ![Zrzut ekranu (800)](https://user-images.githubusercontent.com/76974781/175765276-614ecab6-1f2e-4c90-ad43-0fd91a93282a.jpg)
